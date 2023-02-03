@@ -27,7 +27,7 @@ git clone https://github.com/Prabhat-shandilya/Hire-Me-DBMS-mini-project.git
 
 
 ```
-cd Hire-ME
+cd /Hire-Me DBMS mini project/
 
 ```
 
