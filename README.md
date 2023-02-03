@@ -2,7 +2,7 @@
 
 
 
-DBMS Mini-project: Recruitment Management System.💫✨
+DBMS Mini-project: Recruitment Management System.
 
 ## Features:
 
