@@ -13,13 +13,6 @@
 - ***Beautiful UI using tkinter***
 
 
-
-### :rocket:Glimpse :dizzy::dizzy:<br><br>
-<img src="screenshots/001_login.png" width="500">
-<img src="screenshots/006_login_recruiter_mainscreen.png" width="500">
-<img src="screenshots/011_client_availablejobs.png" width="500">
-
-
 ## Setup
 
 ##### Clone the repository
